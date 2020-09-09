@@ -15,9 +15,9 @@
 <ul>
   <li>src
     <ul>
-      <libubblesort
+      <li>mergesort
         <ul>
-          <li>BubbleSortProcess.java</li>
+          <li>MergeSortProcess.java</li>
         </ul>
       </li>
       <li>main
@@ -48,8 +48,8 @@
     <th>Information</th>
   </tr>
   <tr>
-    <td>BubbleSortProcess.java</td>
-    <td>Implementing BubbleSort Sort Process by Turkish alphabetical order</td>
+    <td>MergeSortProcess.java</td>
+    <td>Implementing MergeSort Sort Process by Turkish alphabetical order</td>
   </tr>
   <tr>
     <td>Person.java</td>
